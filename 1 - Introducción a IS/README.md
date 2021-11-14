@@ -23,7 +23,7 @@ La ingenier;ia de software se enfoca en base a un compromiso organizacional con 
 
 - ¿Por qué se eligió el artefacto? </br>
 
-    - 
+    - Se eligió este artefacto llamado "¿Cómo contribiur a los ODS post-COVID 19 desde la Ingeniería de Software" ya que es el ideal para poder entender que en la mayoria de los casos se puede implementar un software para poder ayudar o facilitar el trabajo de diferentes proyectos, en el caso del artefacto, se creo un software para poder ayudar a la ODS 9 "Industria, Innovación y Infraestructura" a contribuir en el post-COVID 19.
 
 - Si tuviera que volver a producir el artefacto, ¿qué cambiaría? ¿Qué mejoraría?
 - Red semántica de conceptos de ingeniería de software asociadas al artefacto
