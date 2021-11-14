@@ -7,6 +7,20 @@ Alexander Gabriel Villatoro Muñoz 1182118 </br>
 
 <hr>
 
+### Ingeniería de Software
+
+La ingeniería de software es el establecimiento y uso de principios fundamentales de la ingeniería con objeto de desarrollar en forma económica un software que sea confiable y que trabaje con eficiencia en máquinas reales. </br>
+
+Es un enfoque sistemático, disciplinado y cunatificable al desarrollo, operación y mantenimiento de software. </br>
+
+La ingenier;ia de software se enfoca en base a un compromiso organizacional con la calidad, en el cual es una tecnología con varias capas en las cuales son las siguientes: </br>
+
+- Capas de la ingeniería de software
+    - Herramientas
+    - Métodos
+    - Proceso 
+    - Compromiso con la calidad
+
 - ¿Por qué se eligió el artefacto? </br>
 
     - 
