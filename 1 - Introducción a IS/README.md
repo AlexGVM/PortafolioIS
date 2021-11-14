@@ -26,9 +26,19 @@ La ingenier;ia de software se enfoca en base a un compromiso organizacional con 
     - Se eligió este artefacto llamado "¿Cómo contribiur a los ODS post-COVID 19 desde la Ingeniería de Software" ya que es el ideal para poder entender que en la mayoria de los casos se puede implementar un software para poder ayudar o facilitar el trabajo de diferentes proyectos, en el caso del artefacto, se creo un software para poder ayudar a la ODS 9 "Industria, Innovación y Infraestructura" a contribuir en el post-COVID 19.
 
 - Si tuviera que volver a producir el artefacto, ¿qué cambiaría? ¿Qué mejoraría?
+
+    - La actividad en donde se realizó el artefacto, no se deberia de producir algun cambio o mejorá ya que se comprendí y se incluyo todos los temas abordados en la actividad.
+
 - Red semántica de conceptos de ingeniería de software asociadas al artefacto
+
+    - 
+
 - ¿Cómo contribuyó la ingeniería de software a mi misión de convertirme en ingeniero 
 en informática y sistemas?
+
+    - La introducción a la ingeniería de software me dio el conocimiento para mi futuro en el cual nos dice que en un software debe de tener 3 principios fundamentales en los cuales son la calidad, tiempo y los costos. Se debe de tomar en cuenta las actividades sombrilla y las fases estructurales.
+    
+    
 
 
 
