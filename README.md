@@ -25,15 +25,15 @@ en informática y sistemas?
 ## Versiones
 
 - <strong>v1.0.0</strong> Commit Inicial y Version Inicial
-    - v1.1.0 Se agregó el bloque número 1 llamado "Introducción a la Ingeniería de Software" y "Modelos Básicos de Desarrollo"
-        - v1.1.1 Se corrigió un error de ortografía en el README.md
-    - v1.2.0 Se agregó el bloque número 2 llamado "Modelos Prescriptivos" y "Modelos Ágiles"
-    - v1.3.0 Se agregó el bloque número 3 llamado "Estrategias de Pruebas" y "Técnicas de Pruebas"
-    - v1.4.0 Se agregó el bloque número 4 llamado "Marco Conceptual y Métricas de Producto" y "Métricas de Proceso, Medidas e Indicadores"
-        - v1.4.1 Se corrigió un problema de sintaxis y de ortografía
-    - v1.5.0 Se agregó el bloque número 5 llamado "Gestión del Cambio y Prácticas DevOps"
-- v2.0.0 Se realizó un merge de la rama v1.0.0 a la master
-    - v2.1.1 Se modificó el README.md en el cual tiene una sección de Versiones
+    - <strong>v1.1.0</strong> Se agregó el bloque número 1 llamado "Introducción a la Ingeniería de Software" y "Modelos Básicos de Desarrollo"
+        - <strong>v1.1.1</strong> Se corrigió un error de ortografía en el README.md
+    - <strong>v1.2.0</strong> Se agregó el bloque número 2 llamado "Modelos Prescriptivos" y "Modelos Ágiles"
+    - <strong>v1.3.0</strong> Se agregó el bloque número 3 llamado "Estrategias de Pruebas" y "Técnicas de Pruebas"
+    - <strong>v1.4.0</strong> Se agregó el bloque número 4 llamado "Marco Conceptual y Métricas de Producto" y "Métricas de Proceso, Medidas e Indicadores"
+        - <strong>v1.4.1</strong> Se corrigió un problema de sintaxis y de ortografía
+    - <strong>v1.5.0</strong> Se agregó el bloque número 5 llamado "Gestión del Cambio y Prácticas DevOps"
+- <striong>v2.0.0</strong> Se realizó un merge de la rama v1.0.0 a la master
+    - <strong>v2.1.1</strong> Se modificó el README.md en el cual tiene una sección de Versiones
 
 
 
