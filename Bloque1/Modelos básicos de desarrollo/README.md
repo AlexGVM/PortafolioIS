@@ -12,7 +12,7 @@ Alexander Gabriel Villatoro Muñoz 1182118 </br>
 Los modelos del proceso se trabaja en la construcción de un producto o sistema, cada actividad o modelo está formado por un conjunto de acciones y cada una de éstas se encuenta definida por un conjunto de tareas que identifica las tareas del trabajo que se deben de realizar, por ejemplo:
 
 - Actividades sombrilla
-    - Seguimiento y control del proyectode software
+    - Seguimiento y control del proyecto de software
     - Administración del riesgo
     - Aseguramiento de la calidad del software
     - Revisiones técnicas
@@ -38,7 +38,7 @@ Los modelos del proceso se trabaja en la construcción de un producto o sistema,
 
 - Red semántica de conceptos de ingeniería de software asociadas al artefacto
 
-    - 
+    - [Red semántica](https://drive.google.com/file/d/1f1jyh8C_7m2LbONpiB55NmnAhJsq-tp5/view?usp=sharing)
 
 - ¿Cómo contribuyó la ingeniería de software a mi misión de convertirme en ingeniero 
 en informática y sistemas?
