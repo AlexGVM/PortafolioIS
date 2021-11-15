@@ -24,7 +24,7 @@ en informática y sistemas?
 
 ## Versiones
 
-- v1.0.0 Commit Inicial y Version Inicial
+- <strong>v1.0.0</strong> Commit Inicial y Version Inicial
     - v1.1.0 Se agregó el bloque número 1 llamado "Introducción a la Ingeniería de Software" y "Modelos Básicos de Desarrollo"
         - v1.1.1 Se corrigió un error de ortografía en el README.md
     - v1.2.0 Se agregó el bloque número 2 llamado "Modelos Prescriptivos" y "Modelos Ágiles"
