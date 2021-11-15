@@ -22,6 +22,25 @@ en informática y sistemas?
 
 <hr>
 
+## Enlace a los bloques
+
+- <a href="https://github.com/AlexGVM/PortafolioIS/tree/master/Bloque1" 
+    target=”_blank”> <strong>Bloque 1</strong> - "Introducción a la Ingeniería de Software" y "Modelos Básicos de Desarrollo"</a>
+    
+- <a href="https://github.com/AlexGVM/PortafolioIS/tree/master/Bloque2/Proyectos%2C%20retos%2C%20casose" 
+    target=”_blank”><strong>Bloque 2</strong> - "Modelos Prescriptivos" y "Modelos Ágiles"</a>
+    
+- <a href="https://github.com/AlexGVM/PortafolioIS/tree/master/Bloque3/Estrategias%20de%20pruebas" 
+    target=”_blank”><strong>Bloque 3</strong> - "Estrategias de Pruebas" y "Técnicas de Pruebas"</a>
+    
+- <a href="https://github.com/AlexGVM/PortafolioIS/tree/master/Bloque4/Pruebas%20Beta" 
+    target=”_blank”><strong>Bloque 4</strong> - "Marco Conceptual y Métricas de Producto" y "Métricas de Proceso, Medidas e Indicadores"</a>
+    
+- <a href="https://github.com/AlexGVM/PortafolioIS/tree/master/Bloque5/Gesti%C3%B3n%20del%20cambio%20y%20pr%C3%A1cticas%20DevOps" 
+    target=”_blank”><strong>Bloque 5</strong> - "Gestión del Cambio y Prácticas DevOps"</a>
+
+<hr>
+
 ## Versiones
 
 - <strong>v1.0.0</strong> Commit Inicial y Version Inicial
@@ -34,6 +53,8 @@ en informática y sistemas?
     - <strong>v1.5.0</strong> Se agregó el bloque número 5 llamado "Gestión del Cambio y Prácticas DevOps"
 - <striong>v2.0.0</strong> Se realizó un merge de la rama v1.0.0 a la master
     - <strong>v2.1.1</strong> Se modificó el README.md en el cual tiene una sección de Versiones
+    - <strong>v2.2.0</strong> Se agregó una sección para navegar facilmente a los diferentes bloques
+
 
 
 
