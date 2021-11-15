@@ -12,11 +12,13 @@ Alexander Gabriel Villatoro Muñoz 1182118 </br>
 La calidad se reconoce cuando se ve, por lo que puede ser algo difícil de definir. Pero para un software la calidad se debe de definir en varios puntos.
 
 - Calidad
-    - Es algo que se reconoce de inmediato, pero que no es posible denir explícitamente.
+    - Es algo que se reconoce de inmediato, pero que no es posible definir explícitamente.
     - Concibe la calidad en términos de las metas específicas del usuario final. Si un producto las satisface, tiene calidad.
-    - La define en términos de las especicaciones originales del producto. Si éste las cumple, tiene calidad.
+    - La define en términos de las especificaciones originales del producto. Si éste las cumple, tiene calidad.
     - Sugiere que la calidad tiene que ver con las características inherentes (funciones y características) de un producto.
     - La mide de acuerdo con lo que un cliente está dispuesto a pagar por un producto. En realidad, la calidad incluye todo esto y más.
+
+Revisiones informales incluyen una simple vericación de escritorio de un trabajo de ingeniería de sotware, hecha con algún colega, o una reunión casual (con más de dos personas) con objeto de revisar un producto o aspectos orientados a la revisión de programación por pares.
 
 
 - ¿Por qué se eligió el artefacto? </br>
@@ -29,7 +31,7 @@ La calidad se reconoce cuando se ve, por lo que puede ser algo difícil de defin
 
 - Red semántica de conceptos de ingeniería de software asociadas al artefacto
 
-    - 
+    - [Red semántica]()
 
 - ¿Cómo contribuyó la ingeniería de software a mi misión de convertirme en ingeniero 
 en informática y sistemas?
