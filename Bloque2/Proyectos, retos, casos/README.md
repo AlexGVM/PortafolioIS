@@ -34,7 +34,7 @@ Los modelos ágiles pone énfasis en la satisfacción del cliente y en la entreg
 
 - Red semántica de conceptos de ingeniería de software asociadas al artefacto
 
-    - 
+    - [Red semántica](https://drive.google.com/file/d/1pzF6XF1iwALwVq4Vk-TJ5ZcD3dhmU1ps/view?usp=sharing)
 
 - ¿Cómo contribuyó la ingeniería de software a mi misión de convertirme en ingeniero 
 en informática y sistemas?
