@@ -27,7 +27,7 @@ en informática y sistemas?
 - <a href="https://github.com/AlexGVM/PortafolioIS/tree/master/Bloque1" 
     target=”_blank”> <strong>Bloque 1</strong> - "Introducción a la Ingeniería de Software" y "Modelos Básicos de Desarrollo"</a>
     
-- <a href="https://github.com/AlexGVM/PortafolioIS/tree/master/Bloque2/Proyectos%2C%20retos%2C%20casose" 
+- <a href="https://github.com/AlexGVM/PortafolioIS/tree/master/Bloque2/Proyectos%2C%20retos%2C%20casos" 
     target=”_blank”><strong>Bloque 2</strong> - "Modelos Prescriptivos" y "Modelos Ágiles"</a>
     
 - <a href="https://github.com/AlexGVM/PortafolioIS/tree/master/Bloque3/Estrategias%20de%20pruebas" 
@@ -54,6 +54,7 @@ en informática y sistemas?
 - <striong>v2.0.0</strong> Se realizó un merge de la rama v1.0.0 a la master
     - <strong>v2.1.1</strong> Se modificó el README.md en el cual tiene una sección de Versiones
     - <strong>v2.2.0</strong> Se agregó una sección para navegar facilmente a los diferentes bloques
+        - <strong>v2.2.1</strong> Se modifico un error de enlace al bloque 2 en el README.md
 
 
 
